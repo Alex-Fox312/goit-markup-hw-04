@@ -341,8 +341,8 @@ svg.inform-icon-block{
 }
 
 svg.team-icon {
-  width: 16px;
-  height: 16px;
+  width: 16;
+  height: 16;
   fill: #f4f4fd;
 }
 
@@ -509,8 +509,8 @@ svg.team-icon {
 }
 
 svg.footer-icon {
-  width: 24px;
-  height: 24px;
+  width: 24;
+  height: 24;
   fill: #f4f4fd;
 }
 
