@@ -263,12 +263,7 @@ img {
   width: calc((100% - 72px) / 4);
 }
 
-.inform-icon-block {
-  width: 64px;
-  height: 64px;
-}
-
-.inform-svg svg{
+svg.inform-icon-block{
   height: 64px;
   width: 64px;
   fill: var(--IRIS, #4d5ae5);
@@ -345,7 +340,7 @@ img {
   justify-content: center;
 }
 
-.icon-box svg {
+svg.team-icon {
   width: 16px;
   height: 16px;
   fill: #f4f4fd;
@@ -513,7 +508,7 @@ img {
   align-items: center;
 }
 
-.footer-icon {
+svg.footer-icon {
   width: 24px;
   height: 24px;
   fill: #f4f4fd;
